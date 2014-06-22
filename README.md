@@ -2,13 +2,13 @@
 
 # R Programming Assignment 2
 
- Create a Square Matrix
+ Create a Square Matrix <br>
  Summarize it to get the list of functions in the Matrix
  Cache the Matrix and Show the Solution
 
 cacheIt <- makeCacheMatrix();
 summary(cacheIt);
-                Length Class  Mode    
+                Length Class  Mode   
 retrieveMatrix  1      -none- function
 setMatrix       1      -none- function
 inverseCache    1      -none- function
